@@ -1,0 +1,33 @@
+.search-result
+{
+    margin-top: 100px;
+    color:#000;
+    display:none;
+}
+
+.search-result table
+{
+    display: none;
+    table-layout: fixed;
+    width: 100%;
+}
+
+
+.search-result table th,td
+{
+    text-align: center;
+    width: 11%;
+    padding:5px;
+}
+
+.search-result h2
+{
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-bottom: 3px solid black;
+}
+.search-result{
+    font-size: 30px;
+    text-align: center;
+}
+
